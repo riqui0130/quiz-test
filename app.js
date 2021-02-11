@@ -26,6 +26,24 @@ const quiz = [
       '1996年'
     ],
     correct: '1971年'
+  }, {
+    question: 'sutarbucksが初めて日本にできた年は何年？',
+    answers: [
+      '1984年',
+      '1971年',
+      '2002年',
+      '1996年'
+    ],
+    correct: '1996年'
+  }, {
+    question: 'sutarbucksが創業した年は何年？',
+    answers: [
+      '1904年',
+      '1971年',
+      '1985年',
+      '1996年'
+    ],
+    correct: '1971年'
   },
 ];
 
